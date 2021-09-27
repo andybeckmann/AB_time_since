@@ -4,7 +4,7 @@ AB_time_since is a Vue component that accepts a timestamp as a string, in the fo
 
 ## Demo
 
-```
+```vue
 <template>
 	<TimeSince :date="'09262021'" />
 </template>
