@@ -1,4 +1,6 @@
-# a
+# AB_time_since
+
+AB_time_since is a Vue component that accepts a timestamp as a string, in the form of MMDDYYYY, and returns the total time elapsed since the provided date, in days, months, or years.
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
